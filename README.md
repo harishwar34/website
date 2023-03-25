@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-    <h1 id="PHS WebDev">PHS WebDev<b><sub>Harishwar</sub></b></h1>
+<h1 id="PHS WebDev">PHS WebDev<b><sub>Harishwar</sub></b></h1>
 <p><h2>About this company's:</h2></p>  
 <ul>
 <h3><a href="#Owner"><li>Owner</li></a></h3>
@@ -91,7 +91,7 @@
     <li>nethaji</li>
     <li>arul</li>
 </ul>
-<p><a href="PHS WebDev">Go back</a></p>
+<p><a href="#PHS WebDev">Go back</a></p>
 </html>
 
 
