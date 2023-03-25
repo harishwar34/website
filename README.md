@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-    <h1 id="PHS WebDev">PHS WebDev<sub><em>Harishwar</em></sub></h1>
+    <h1 id="PHS WebDev">PHS WebDev<b><sub>Harishwar</sub></b></h1>
 <p><h2>About this company's:</h2></p>  
 <ul>
 <h3><a href="#Owner"><li>Owner</li></a></h3>
@@ -39,18 +39,18 @@
 <p id="Coaching"><dt><b>Coaching</b></dt></p>
 <p>This is a multipurpose company.This company can take classes during the weekend with best tutor.They also give hwo  to create a website</p>
 <p>You can register here:</p>
-<p id="Login"><b>Login:</b></p>
+<p id="Login"><b>Login:</b>></p>
 <form>
 <label for="Name">Full Name:</label><br>
-<input type="text" name="username" placeholder="Eg.Harishwar"><br>
+<input type="text" name="username" placeholder="Eg.Harishwar" required><br>
 <label for="DOB">DOB:</label><br>
-<input type="date" name="dob"><br>
+<input type="date" name="dob" required><br>
 <label for="Age">Age:</label><br>
-<input type="number" name="age" id="age"><br>
+<input type="number" name="age" id="age" required><br>
 <label for="Email">Email:</label><br>
-<input type="email" name="mail" placeholder="Eg-seenathaana001@gmail.com" id="mail"><br>
+<input type="email" name="mail" placeholder="Eg-seenathaana001@gmail.com" id="mail" required><br>
 <label for="password">Password:</label><br>
-<input type="password" name="Password" id="password"><br>
+<input type="password" name="Password" id="password" required><br>
 <label for="gender">Gender:</label><br>
 <p><input type="radio" name="gender" value="male">Male</p>
 <p><input type="radio" name="gender" value="female">Female</p>
