@@ -39,7 +39,7 @@
 <p id="Coaching"><dt><b>Coaching</b></dt></p>
 <p>This is a multipurpose company.This company can take classes during the weekend with best tutor.They also give hwo  to create a website</p>
 <p>You can register here:</p>
-<p id="Login"><b>Login:</b>></p>
+<p id="Login"><b>Login:</b></p>
 <form>
 <label for="Name">Full Name:</label><br>
 <input type="text" name="username" placeholder="Eg.Harishwar"><br>
