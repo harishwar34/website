@@ -1,1 +1,121 @@
-# website
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <h1 id="PHS WebDev">PHS WebDev<sub><em>Harishwar</em></sub></h1>
+<p><h2>About this company's:</h2></p>  
+<ul>
+<h3><a href="#Owner"><li>Owner</li></a></h3>
+<h3><a href="#Description about the  company"><li>Description about the company</li></a></h3>
+<h3><a href="#Timing"><li>Timing</li></a></h3>
+<h3><a href="#Coaching"><li>Coaching</li></a></h3>
+<h3><a href="#Developers"><li>Developers</li></a></h3>
+<h3><a href="#Login"><li>Login</li></a></h3>
+</ul>
+<p id="Owner"></p><b><dt>Owner:</dt></b></p>
+<P><dd>This company is owned by <b>Prem ananth</b>.His son started the company PHS WebDev.</dd></P>
+<P><dd>The full abbreviation of the company is P-Prathiksha H-Harishwar S-Sangeetha</dd></P>
+<p><a href="mailto:harishwar3442@gmail.com">contact manager</a></p><br>
+<p><a href="#PHS WebDev">Go back</a></p>
+<p id="Description about the company"><b><dt>Description of the company:</dt></b></p>
+<p><dd>The main focus of the company is to create website for the new startup companies.</dd></p>
+<p><dd>This company will also create website without CSS cascading style sheet.</dd></p>
+<img src="company.jpg" alt="cmp img" title="com img"><br>
+<p><a href="#PHS WebDev">Go back</a></p>
+<p id="Timing"><dt><b>Timing:</b></dt></p>
+<p>In the below mentioned timings only the office will open:</p>
+<table border="5">
+    <tr><th>  </th><th>morning</th>   <th>Evening</th></tr>
+    <tr><th>Monday<td>9.00-11.00</td><td>3.00-5.00</td></th></tr>
+    <tr><th>Tuesday<td>9.00-11.00</td><td>3.00-5.00</td></th></tr>
+    <tr><th>Wednesday<td>9.00-11.00</td><td>3.00-5.00</td></th></tr>
+    <tr><th>Thursday<td>9.00-11.00</td><td>3.00-5.00</td></th></tr>
+    <tr><th>Friday<td>9.00-11.00</td><td>3.00-5.00</td></th></tr>
+</table>
+<p><a href="#PHS WebDev">Go back</a></p>
+<p id="Coaching"><dt><b>Coaching</b></dt></p>
+<p>This is a multipurpose company.This company can take classes during the weekend with best tutor.They also give hwo  to create a website</p>
+<p>You can register here:</p>
+<p id="Login"><b>Login:</b>></p>
+<form>
+<label for="Name">Full Name:</label><br>
+<input type="text" name="username" placeholder="Eg.Harishwar"><br>
+<label for="DOB">DOB:</label><br>
+<input type="date" name="dob"><br>
+<label for="Age">Age:</label><br>
+<input type="number" name="age" id="age"><br>
+<label for="Email">Email:</label><br>
+<input type="email" name="mail" placeholder="Eg-seenathaana001@gmail.com" id="mail"><br>
+<label for="password">Password:</label><br>
+<input type="password" name="Password" id="password"><br>
+<label for="gender">Gender:</label><br>
+<p><input type="radio" name="gender" value="male">Male</p>
+<p><input type="radio" name="gender" value="female">Female</p>
+<p><input type="radio" name="gender" value="others">others</p>
+<p><b>Number of classes you want to complete the course:</b></p>
+<select name="num of classes" id="num of classes">
+    <option>10</option>
+    <option>11</option>
+    <option>12</option>
+    <option>13</option>
+    <option>14</option>
+</select><br><br>
+<input type="submit" value="send">
+<p>reference:</p>
+<iframe width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/Jun2u_DOkeQ" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+</form>
+<p>youtube channel for the company:</p>
+<p>they uses his friend's youtube channel for updates</p>
+<a href="https://yputube.com/@vickysvoice6771">HIT ME to go to that channel</a><br>
+<img src="channel.jpg.jpg" alt="channel name" title="channel name">
+<p><a href="#PHS WebDev">Go back</a></p>
+<p id="Developers"><dt><b>Developers:</b></dt></p>
+<ul>
+    <li>Harishwar</li>
+    <li>Bhargav sai</li>
+    <li>Kishore</li>
+    <li>lokeshkumar</li>
+    <li>ajai</li>
+    <li>Annamalai</li>
+    <li>Tharshan</li>
+    <li>vicky</li>
+    <li>nethaji</li>
+    <li>arul</li>
+</ul>
+<p><a href="PHS WebDev">Go back</a></p>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
